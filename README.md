@@ -15,7 +15,7 @@ cd finquest
 
 # 4. Run it
 flutter pub get
-flutter run
+run without debugging
 ```
 
 ## 📱 Pages & Features
