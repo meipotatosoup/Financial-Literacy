@@ -1,5 +1,5 @@
 
-# 💰 FinQuest — Gamified Finance Learning App
+# 💰 FinQuest
 ## 🚀 Quick Start
 
 ```bash
