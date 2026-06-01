@@ -1,8 +1,5 @@
 
 # 💰 FinQuest — Gamified Finance Learning App
-
-A full Flutter app with 4 animated tab pages for learning how financial markets work.
-
 ## 🚀 Quick Start
 
 ```bash
